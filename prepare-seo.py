@@ -4,7 +4,7 @@ import html, json, re
 
 ROOT = Path(__file__).resolve().parent
 DIST = ROOT / 'dist'
-ORIGIN = 'https://chatselect-windows.victoriousflea4.chatgpt.site'
+ORIGIN = 'https://chatselect.webcraftio.com'
 TITLE = 'Select WhatsApp Messages on Windows | ChatSelect'
 DESCRIPTION = 'Select hundreds of WhatsApp messages on Windows with ChatSelect. Choose a message count, follow the setup guide, and pause anytime. Free Windows beta.'
 page = (DIST/'index.html').read_text(encoding='utf-8')
