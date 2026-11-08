@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chatselect-windows.victoriousflea4.chatgpt.site/sitemap.xml
